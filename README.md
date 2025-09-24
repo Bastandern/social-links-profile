@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://blog-preview-card-blond-zeta.vercel.app/](https://blog-preview-card-blond-zeta.vercel.app/)
+- Solution URL: [https://social-links-profile-three-vert.vercel.app/](https://social-links-profile-three-vert.vercel.app/)
 
 ## My process
 
