@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/static/Inter-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/static/Inter-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
 *,
 *::before,
 *::after {
@@ -39,20 +59,20 @@ body {
 }
 .name-address h1{
   color: hsl(0, 0%, 100%);
-  font-weight: 400;
+  font-weight: 700;
   font-size: 24px;
   letter-spacing: 0.2px;
 }
 .name-address p{
   color: hsl(75, 94%, 57%);
-  font-weight: 400;
+  font-weight: 600;
   font-size: 14px;
   letter-spacing: 0.2px;
 }
 .description{
-  color: #969696;
+  color: #AAAAAA;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .social-links {
@@ -75,6 +95,6 @@ body {
   /* 移除默认下划线 */
   text-decoration: none;
   text-align: center;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 16px;
 }
